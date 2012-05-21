@@ -1,0 +1,1 @@
+(defn hell [who] (str "Hello " who "!")) (leave the (ns helloworld) call at the beginning of the file)
