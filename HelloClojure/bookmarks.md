@@ -1,3 +1,8 @@
+// first place to check out
+http://dev.clojure.org/display/doc/Getting+Started
+
+
+O
 http://mark.reid.name/sap/setting-up-clojure.html
 Setting Up Clojure for Mac OS X Leopard
  
